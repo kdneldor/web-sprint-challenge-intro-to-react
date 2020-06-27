@@ -27,6 +27,8 @@ function Character() {
             name={character.name}
             image={character.image}
             species={character.species}
+            status={character.status}
+            gender={character.gender}
           />
         );
       })}
