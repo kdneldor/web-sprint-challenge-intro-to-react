@@ -3,7 +3,8 @@
 }
 .Header {
   color: aqua;
-  text-shadow: 1px 1px 5px #fff;
+  text-shadow: 1px 3px 5px #fff;
+  margin: 1% 12% 1% 12%;
   font-size: 80px;
   background-color: black;
 }

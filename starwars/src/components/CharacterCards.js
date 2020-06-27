@@ -9,16 +9,19 @@ const CharacterCards = (props) => {
     color: white;
     text-shadow: 1px 1px 5px #fff;
     background: black;
+    
   `;
   const TitleTwo = styled.h2`
     font-size: 1em;
     text-align: center;
     color: white;
     background: black;
+    margin: 5px 50px 5px 50px;
   `;
   const Wrapper = styled.section`
     padding: 1px;
-    background: aqua;
+    background: aquamarine;
+    margin-bottom: 1%;
   `;
   return (
     <div className="character-cards">
